@@ -1,1 +1,1 @@
-# terraform-ibm-module-ixnetwork-app
+# module-ixnetwork-app/ibm
